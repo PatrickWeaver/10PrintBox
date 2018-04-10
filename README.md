@@ -27,11 +27,5 @@ If you're using a 470 Ohm resistor, replace the two 1K ohm resistors in parallel
 
 The resistors that come from pin 7 and 9 of the Arduino connect together, and then connect to the centre pin of the RCA jack (this isn't obvious in the Fritzing diagram, sorry!). The sleeve of the RCA jack connects to one of the GND pins on the Arduino.
 
-If you're using the 3D printed box, I'd recommend holding everything together with a few blobs of hot glue, or something similar. Make sure you test it's working before you hot glue it!
-
-## Questions?
-If you have any questions, feel free to [tweet me](https://twitter.com/walkerdanny) or open an issue on this repository.
-
-
 ## Thanks 👏
 Thanks to [walkerdanny](https://github.com/walkerdanny/10PrintBox) for the original who thanks: [Daniel Shiffman](https://github.com/shiffman) for the inspiration, and to [Noopkat](https://github.com/noopkat) for the idea to do it in hardware! Follow them both, they do good things.
